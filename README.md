@@ -1,7 +1,7 @@
 Hi👋, I'm Navyasri
 
 - 🔭 I’m currently working on NestInn Web App
-- 🌱 I’m currently learning DSA , Angular
+- 🌱 I’m currently learning Angular
 - 💬 Ask me about MERN
 - 📫 How to reach me: navyasrisangem@gmail.com
 
